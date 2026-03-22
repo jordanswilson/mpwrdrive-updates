@@ -3,5 +3,17 @@
     <channel>
         <title>MPWRdrive Updates</title>
         <language>en</language>
+        <item>
+            <title>Version 1.1.0</title>
+            <pubDate>Sun, 22 Mar 2026 16:31:04 -0400</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/jordanswilson/mpwrdrive-updates/releases/download/v1.1.0/MPWRdrive-1.1.0.dmg"
+                sparkle:edSignature="Yje6HzUn0+z4V+4nqoWqFFYqjB/1CDXx1E84ioF7t7km36WabfMzzl5lNECeg1wxJQvkc70BR1vXqHD1GhSjAw==" length="6021824"
+                type="application/octet-stream"
+            />
+        </item>
     </channel>
 </rss>
